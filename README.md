@@ -4,3 +4,4 @@ or MyFitnessPal. Part of this exercise is to create a tiny app where the user ca
 - If the intensity is "Low", 4 calories are burned per minute.
 - If the intensity is "Moderate", 8 calories are burned per minute.
 - If the intensity is "High", 12 calories are burned per  minute.
+By:Casch
